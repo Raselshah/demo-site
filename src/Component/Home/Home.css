@@ -1,0 +1,10 @@
+.bg {
+  background-image: url("../../Assest/Background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 64px;
+  height: 326px;
+}
+.size {
+  border-radius: 64px;
+}
